@@ -34,13 +34,11 @@ This Excel-based interactive dashboard is designed to help individuals manage an
 ## Sheets Overview
 
 - **DATASET**: Raw transaction data with fields like Date, Description, Debit, Credit, Category, Week Day, and Net Amount.
-- **CALCULATIONS 2**: Contains formulas and card summary (for visual element).
 - **DASHBOARD**: Visualizations and KPIs (pivot tables, charts, and slicers).
-- **ICONS**: Empty sheet, possibly for future use or dashboard assets.
 
 ## Tools Used
 - **Excel**: Pivot tables, slicers, data validation
-- **Formulas**: SUMIFS, IF, TEXT, VLOOKUP
+- **Formulas**: SUMIFS, IF, TEXT, VLOOKUP, MONTH, TEXT
 - **Visualization**: Charts, conditional formatting
 
 ## Insights
