@@ -9,8 +9,8 @@ This Excel-based interactive dashboard is designed to help individuals manage an
 
 ## Dashboard Overview
 ## Screenshot
-![Personal Finance Tracker]
-(personal finance tracker dashboard excel.png)
+![personal finance tracker dashboard excel](https://github.com/user-attachments/assets/f89cb7a0-d016-4146-8127-48e8499b5107)
+
 ### Key Features:
 - **Dynamic Filtering** via slicers
 - **Auto-updated KPIs** based on transactions
